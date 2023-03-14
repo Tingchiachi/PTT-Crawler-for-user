@@ -21,4 +21,4 @@ current progress: 10 posts(comments),total 123 posts(comments).
 顯示目前進度及爬取總數。
 
 ## 使用工具
->P
+>Python:requests, BeautifulSoup
